@@ -1,0 +1,8 @@
+site_name: 新居浜高専コンピューター部
+theme:
+  language: ja
+  name: material
+  font:
+    text: Noto Sans JP
+  features:
+    - navigation.tabs
