@@ -1,4 +1,4 @@
-#　https://hogen-dev.github.io/ComputerClubSite/
+# https://hogen-dev.github.io/ComputerClubSite/
 
 新居浜高専コンピューター部サイトのリポジトリです。
 
