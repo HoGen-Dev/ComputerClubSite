@@ -1,4 +1,4 @@
-# https://hogen-dev.github.io/ComputerClubSite/ or https://nnct.netlify.app/
+# https://hogen-dev.github.io/ComputerClubSite/<br>https://nnct.netlify.app/
 
 This is the repository of the Niihama National College of Technology Computer Club site.
 
