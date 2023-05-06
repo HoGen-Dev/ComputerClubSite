@@ -1,5 +1,7 @@
 # https://hogen-dev.github.io/ComputerClubSite/
 
+This is the repository of the Niihama National College of Technology Computer Club site.
+
 新居浜高専コンピューター部サイトのリポジトリです。
 
 ## サイトの編集方法
